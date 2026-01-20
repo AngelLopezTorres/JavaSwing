@@ -1,1 +1,1 @@
-# JavaSwing
+# Some activities with JavaSwing
